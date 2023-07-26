@@ -1,6 +1,7 @@
 {
 	"recommendations": [
 		"christian-kohler.path-intellisense",
-		"postman.postman-for-vscode"
+		"postman.postman-for-vscode",
+		"wayou.vscode-todo-highlight"
 	]
 }
